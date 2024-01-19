@@ -7,7 +7,7 @@
 
 > 📦 877.3 kB Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2024
+> 🏆 58 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -27,10 +27,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/BorisYang326/BorisYang326/main/assets/bar_graph.png)
-
-
- Last Updated on 19/01/2024 15:16:15 UTC
+ Last Updated on 19/01/2024 15:19:54 UTC
 <!--END_SECTION:waka-->
