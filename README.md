@@ -3,18 +3,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 877.3 kB Used in GitHub's Storage 
- > 
-> 🏆 58 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
 **I Mostly Code in Python** 
 
 ```text
@@ -27,10 +15,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/BorisYang326/BorisYang326/main/assets/bar_graph.png)
-
-
- Last Updated on 19/01/2024 15:01:31 UTC
+ Last Updated on 19/01/2024 15:06:32 UTC
 <!--END_SECTION:waka-->
