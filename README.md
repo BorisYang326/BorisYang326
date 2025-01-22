@@ -9,8 +9,6 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -72,5 +70,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2025 18:43:45 UTC
+ Last Updated on 22/01/2025 18:44:10 UTC
 <!--END_SECTION:waka-->
