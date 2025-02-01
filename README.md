@@ -9,8 +9,6 @@
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -44,14 +42,13 @@ Sunday                   633 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-YAML                     3 mins              ███████████████████████░░   91.00 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +64,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2025 18:43:22 UTC
+ Last Updated on 01/02/2025 18:39:11 UTC
 <!--END_SECTION:waka-->
