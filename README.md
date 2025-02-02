@@ -1,7 +1,7 @@
 <!--![](https://raw.githubusercontent.com/BorisYang326/BorisYang326/output/github-contribution-grid-snake-dark.svg) -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,13 +42,13 @@ Sunday                   633 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -64,5 +64,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2025 18:39:11 UTC
+ Last Updated on 02/02/2025 18:42:21 UTC
 <!--END_SECTION:waka-->
