@@ -1,15 +1,15 @@
 <!--![](https://raw.githubusercontent.com/BorisYang326/BorisYang326/output/github-contribution-grid-snake-dark.svg) -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-866%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-867%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 102 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,17 +44,17 @@ Sunday                   506 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 32 mins       ███████████████░░░░░░░░░░   59.49 % 
-Bash                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Other                    40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-CSV                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Python                   4 hrs 36 mins       █████████████████░░░░░░░░   66.03 % 
+Bash                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+CSV                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 57 mins       █████████████████████████   100.00 % 
+Cursor                   6 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,5 +70,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2025 18:43:20 UTC
+ Last Updated on 14/04/2025 18:47:34 UTC
 <!--END_SECTION:waka-->
