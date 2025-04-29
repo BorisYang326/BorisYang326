@@ -1,13 +1,15 @@
 <!--![](https://raw.githubusercontent.com/BorisYang326/BorisYang326/output/github-contribution-grid-snake-dark.svg) -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%2043%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 120 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -42,16 +44,17 @@ Sunday                   515 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     2 hrs 34 mins       ██████████████████░░░░░░░   73.96 % 
-CSS                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-TeX                      22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+HTML                     2 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.71 % 
+TeX                      1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   35.17 % 
+CSS                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 29 mins       █████████████████████████   100.00 % 
+Cursor                   5 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -67,5 +70,5 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/04/2025 18:47:22 UTC
+ Last Updated on 29/04/2025 18:46:29 UTC
 <!--END_SECTION:waka-->
