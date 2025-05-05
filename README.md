@@ -14,7 +14,7 @@
 - 📧 <a href="mailto:borisyang326@gmail.com">borisyang326@gmail.com</a>
 - 🌐 [My GitHub Page](https://https://borisyang326.github.io/)
 <!--![](https://raw.githubusercontent.com/BorisYang326/BorisYang326/output/github-contribution-grid-snake-dark.svg) -->
-![](./profile-3d-contrib/profile-season-animate.svg)
+<!--![](./profile-3d-contrib/profile-season-animate.svg)  -->
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-878%20hrs%2044%20mins-blue)
 
