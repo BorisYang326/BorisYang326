@@ -8,11 +8,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
-
-### 📫 How to reach me
-
-- 📧 <a href="mailto:borisyang326@gmail.com">borisyang326@gmail.com</a>
-- 🌐 [My GitHub Page](https://https://borisyang326.github.io/)
 <!--![](https://raw.githubusercontent.com/BorisYang326/BorisYang326/output/github-contribution-grid-snake-dark.svg) -->
 <!--![](./profile-3d-contrib/profile-season-animate.svg)  -->
 <!--START_SECTION:waka-->
