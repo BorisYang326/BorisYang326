@@ -12,6 +12,8 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2021%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
@@ -77,5 +79,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2025 08:25:01 UTC
+ Last Updated on 16/05/2025 18:47:11 UTC
 <!--END_SECTION:waka-->
