@@ -53,14 +53,13 @@ Sunday                   501 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      5 hrs 40 mins       █████████████████████████   98.12 % 
-BibTeX                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   5 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +75,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2025 18:45:39 UTC
+ Last Updated on 05/06/2025 19:00:23 UTC
 <!--END_SECTION:waka-->
