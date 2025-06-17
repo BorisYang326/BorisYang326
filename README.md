@@ -20,6 +20,8 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
+> 🏆 153 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -53,15 +55,13 @@ Sunday                   501 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      1 hr 34 mins        ██████████████████████░░░   87.97 % 
-BibTeX                   12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +77,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2025 18:50:06 UTC
+ Last Updated on 17/06/2025 18:49:59 UTC
 <!--END_SECTION:waka-->
