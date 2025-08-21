@@ -12,13 +12,15 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-965%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 205 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,13 +55,18 @@ Sunday                   504 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   40 mins             ████████████████░░░░░░░░░   65.95 % 
+Other                    12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   1 hr                █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      40 mins             █████████████████░░░░░░░░   67.32 % 
+Linux                    19 mins             ████████░░░░░░░░░░░░░░░░░   32.68 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +82,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 18:49:52 UTC
+ Last Updated on 21/08/2025 18:47:21 UTC
 <!--END_SECTION:waka-->
