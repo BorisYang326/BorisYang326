@@ -12,7 +12,7 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -53,13 +53,13 @@ Sunday                   504 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,5 +75,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2025 18:45:50 UTC
+ Last Updated on 05/09/2025 18:44:53 UTC
 <!--END_SECTION:waka-->
