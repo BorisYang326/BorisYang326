@@ -12,15 +12,13 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-966%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 205 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,13 +53,13 @@ Sunday                   504 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      2 mins              █████████████████████████   100.00 % 
+TeX                      14 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   2 mins              █████████████████████████   100.00 % 
+Cursor                   14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+Mac                      14 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +75,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2025 18:46:33 UTC
+ Last Updated on 09/09/2025 18:45:12 UTC
 <!--END_SECTION:waka-->
