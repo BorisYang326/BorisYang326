@@ -55,15 +55,13 @@ Sunday                   549 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   26 mins             ███████████████████░░░░░░   77.14 % 
-Other                    6 mins              █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Bash                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    34 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -79,5 +77,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2025 18:54:28 UTC
+ Last Updated on 31/12/2025 18:51:01 UTC
 <!--END_SECTION:waka-->
