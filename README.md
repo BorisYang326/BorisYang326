@@ -12,9 +12,9 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -77,5 +77,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:50:21 UTC
+ Last Updated on 05/01/2026 18:55:17 UTC
 <!--END_SECTION:waka-->
