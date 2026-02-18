@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2024%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -81,5 +81,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 19:28:53 UTC
+ Last Updated on 18/02/2026 19:28:11 UTC
 <!--END_SECTION:waka-->
