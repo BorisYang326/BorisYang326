@@ -12,7 +12,7 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C099%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C101%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -55,13 +55,16 @@ Sunday                   564 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     11 mins             █████████████████████████   100.00 % 
+YAML                     1 hr 33 mins        ██████████████░░░░░░░░░░░   56.91 % 
+Other                    50 mins             ████████░░░░░░░░░░░░░░░░░   30.88 % 
+Text                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Python                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,5 +80,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/03/2026 19:17:03 UTC
+ Last Updated on 13/03/2026 19:07:48 UTC
 <!--END_SECTION:waka-->
