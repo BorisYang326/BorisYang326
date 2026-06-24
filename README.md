@@ -20,13 +20,13 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 178 Contributions in the Year 2026
+> 🏆 179 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
  > 
-> 🔑 18 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -67,15 +67,15 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   22 repos            ███████████████░░░░░░░░░░   59.46 % 
-Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Python                   23 repos            ███████████████░░░░░░░░░░   60.53 % 
+Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+TeX                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 
 
 
 
- Last Updated on 23/06/2026 20:32:34 UTC
+ Last Updated on 24/06/2026 20:18:21 UTC
 <!--END_SECTION:waka-->
