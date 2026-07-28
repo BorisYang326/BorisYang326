@@ -12,21 +12,17 @@
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2051%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-13%20hrs%209%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 181 Contributions in the Year 2026
+> 🏆 183 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
@@ -85,5 +81,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:05:00 UTC
+ Last Updated on 28/07/2026 20:01:02 UTC
 <!--END_SECTION:waka-->
